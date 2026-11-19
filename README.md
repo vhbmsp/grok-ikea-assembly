@@ -26,7 +26,9 @@ O IKEA Assembly Assistant:
 
 ### Opção 1 — Instalar diretamente pelo link
 
-*(Adicionar o link do template público do Grok Bot aqui quando estiver publicado)*
+**[Importar o IKEA Assembly Assistant no Grok Bot](https://x.ai/bot/eB9uwq_-Ch7izIstZQHYx)**
+
+Ao abrir o link, o bot é importado para o Grok Bot. A primeira conversa pede o produto (nome, número de artigo ou foto) e oferece o modo de voz.
 
 ### Opção 2 — Instalação manual a partir do repositório
 
@@ -60,7 +62,9 @@ IKEA Assembly Assistant is a public Grok Bot template that helps assemble IKEA a
 
 ### Option 1 — Install directly from the link
 
-*(Add the public Grok Bot template link here once published)*
+**[Import IKEA Assembly Assistant into Grok Bot](https://x.ai/bot/eB9uwq_-Ch7izIstZQHYx)**
+
+Opening it imports the bot into Grok Bot. The first conversation asks for the product (name, article number or photo) and offers voice mode.
 
 ### Option 2 — Manual installation from the repository
 
